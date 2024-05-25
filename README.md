@@ -40,28 +40,25 @@
         src="https://github-readme-stats.vercel.app/api/wakatime?username=@creator254&layout=compact&theme=tokyonight" alt="githukelvin"/>
 </p>
 
-<p align="left">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=githukelvin&show_icons=true&theme=gotham"
-    alt="githukelvin"
-  />
-</p>
+
 <br><br>
 <details align="left" open>
   <summary><h2>📕 Top Projects I've Done and continue doing</h2></summary>
 
   <!-- Small repo cards https://github.com/DenverCoder1/github-readme-stats (fork of anuraghazra/GitHub-readme-stats) -->
   <p align="left">
-    <a href="https://github.com/githukelvin/python-Webscraping"
+    <a href="https://github.com/Morgan-Ngetich/Airbnb-Booking-Sys"
       ><img
         width="278"
-        src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=githukelvin&repo=python-Webscraping&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false"
+        src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Morgan-Ngetich&repo=Airbnb-Booking-Sys&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false
+"
         alt="web scraping"
     /></a>
-    <a href="https://github.com/githukelvin/Space-tourism"
+    <a href="https://github.com/Morgan-Ngetich/charity-app-backend"
       ><img
         width="278"
-        src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=githukelvin&repo=Space-tourism&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false"
+        src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Morgan-Ngetich&repo=charity-app-backend&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false
+"
         alt="Space-tourism"
     /></a>
     <a href="https://github.com/githukelvin/todo-app"
