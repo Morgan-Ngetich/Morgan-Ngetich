@@ -36,80 +36,18 @@
     src="https://github-readme-stats.vercel.app/api/top-langs?username=Morgan-Ngetich&show_icons=true&theme=dark&title_color=ff8000&text_color=ffffff&bg_color=000000&locale=en&layout=compact&hide_border=true"
     alt="Morgan_Ngetich"
   />
-<img width="50%"  align="left"
-        src="https://github-readme-stats.vercel.app/api/wakatime?username=@creator254&layout=compact&theme=tokyonight" alt="githukelvin"/>
+
 </p>
 
 
 <br><br>
-<details align="left" open>
-  <summary><h2>📕 Top Projects I've Done and continue doing</h2></summary>
 
-  <!-- Small repo cards https://github.com/DenverCoder1/github-readme-stats (fork of anuraghazra/GitHub-readme-stats) -->
-  <p align="left">
-    <a href="https://github.com/Morgan-Ngetich/Airbnb-Booking-Sys"
-      ><img
-        width="278"
-        src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Morgan-Ngetich&repo=Airbnb-Booking-Sys&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false
-"
-        alt="web scraping"
-    /></a>
-    <a href="https://github.com/Morgan-Ngetich/charity-app-backend"
-      ><img
-        width="278"
-        src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Morgan-Ngetich&repo=charity-app-backend&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false
-"
-        alt="Space-tourism"
-    /></a>
-    <a href="https://github.com/githukelvin/todo-app"
-      ><img
-        width="278"
-        src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=githukelvin&repo=todo-app&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false"
-        alt="todo-app"
-    /></a>
-    <a href="https://github.com/githukelvin/forgot_password"
-      ><img
-        width="278"
-        src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=githukelvin&repo=forgot_password&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false"
-        alt="forgot_password"
-    /></a>
-    <a href="https://github.com/githukelvin/easybank-landing"
-      ><img
-        width="278"
-        src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=githukelvin&repo=easybank-landing&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false"
-        alt="easy bank-landing"
-    /></a>
-    <a href="https://github.com/githukelvin/Attedance-system"
-      ><img
-        width="278"
-        src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=githukelvin&repo=Attedance-system&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false"
-        alt="Attendance"
-    /></a>
-    <a href="https://github.com/githukelvin/rest-countries"
-      ><img
-        width="278"
-        src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=githukelvin&repo=rest-countries&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false"
-        alt="rest-countries"
-    /></a>
-       <a href="https://github.com/githukelvin/Insure-landing-page"
-      ><img
-        width="278"
-        src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=githukelvin&repo=Insure-landing-page&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false"
-        alt="Insure-landing-page"
-    /></a>
-     <a href="https://github.com/githukelvin/crowdfunding"
-      ><img
-        width="278"
-        src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=githukelvin&repo=crowdfunding&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false"
-        alt="crowdfunding"
-    /></a>
-  </p>
-</details>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a
-    href="https://www.linkedin.com/in/kelvingithu/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B3tnMURuWQwGxsAutgE88oQ%3D%3D"
+    href="https://www.linkedin.com/in/morgan-ngetich-97a5b9282/
+"
     target="blank"
     ><img
       height="50"
@@ -161,13 +99,7 @@
       height="40"
     />
   </a>
-  <a href="https://php.net" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
-      alt="php"
-      width="40"
-      height="40"
-    />
+
   </a>
   <a href="https://python.org" target="_blank" rel="noreferrer">
     <img
@@ -177,13 +109,6 @@
       height="40"
     />
   </a>
-    <a href="https://python.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg"
-      alt="laravel"
-      width="40"
-      height="40"
-    />
   </a>
       <a href="https://python.org" target="_blank" rel="noreferrer">
     <img
@@ -194,12 +119,6 @@
     />
   </a>
   <a href="https://vue.org" target="_blank" rel="noreferrer">
-    <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"
-      alt="vuejs"
-      width="40"
-      height="40"
-    />
   </a>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg"   width="40"
       height="40"/>
