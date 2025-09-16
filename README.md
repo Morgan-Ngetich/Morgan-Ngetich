@@ -36,4 +36,4 @@ YAML & crying — frequently together
 
 ---
 
-> “I don’t shower. I don’t sleep. I write code that most of the time doesn't work — and I **love it**.”  
+> “I write code that most of the time doesn't work — and I **love it**.”  
